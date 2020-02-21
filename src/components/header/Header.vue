@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <MyHeader/>
-    <router-view></router-view>
-  </div>
+  <nav></nav>
 </template>
 
 <script>
